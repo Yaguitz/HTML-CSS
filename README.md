@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites.
 
-<a href="https://yaguitz.github.io/HTML-CSS/Exercícios/ex001/index.html">Executar o ex 001</a>
+<a href="https://yaguitz.github.io/HTML-CSS/Exercícios/ex001/index.html">Executar o ex001</a>
